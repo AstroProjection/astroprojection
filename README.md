@@ -8,8 +8,8 @@ Hi! I'm **Akshay**, a full-stack engineer from Bangalore who loves building **AI
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshayhemant&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshayhemant&layout=compact&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=astroprojection&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astroprojection&layout=compact&theme=tokyonight" height="170" />
 </p>
 
 ---
