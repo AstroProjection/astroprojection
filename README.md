@@ -1,6 +1,6 @@
 # 💫 Akshay Hemant Kumar  
 ### Senior Full-Stack Engineer | AI-Driven Product Builder  
-**React • Next.js • TypeScript • Node.js**
+**React • Next.js • TypeScript • Node.js • AngularJS**
 
 Hi! I'm **Akshay**, a full-stack engineer from Bangalore who loves building **AI-powered tools**, **clean UI systems**, and **scalable applications**. I enjoy taking ideas from **concept → MVP → polished product**, with a strong focus on performance, UX, and developer experience.
 
@@ -20,6 +20,7 @@ Hi! I'm **Akshay**, a full-stack engineer from Bangalore who loves building **AI
 <p>
   <img src="https://img.shields.io/badge/React-61DBFB.svg?style=for-the-badge&logo=react&logoColor=000" />
   <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/AngularJS-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178c6.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-38bdf8.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" />
@@ -68,24 +69,30 @@ An AI-powered tool that generates role-based screening questions for recruiters 
 
 ---
 
+### ✍️ Paraverse — Branching Story & Version Control for Writers *(WIP)*  
+A writing tool that enables authors to manage their story creation process in a simple and easy manner.  
+**Focus Areas:** Rich text performance (Lexical), large-document editing, narrative branching, AI-assisted writing.
+
+---
+
 ### 🐾 PetRescYou — Animal Tracking for Rescuers  
 A platform to help animal rescuers track medical records, locations, and recovery progress.  
-**Repo:** *https://github.com/AstroProjection/PetRescueApp*  
+**Repo:** https://github.com/AstroProjection/PetRescueApp  
 **Tech:** MongoDB, Express, React, Node.js, TailwindCSS, Cloud Storage
 
 ---
----
 
-### 🐾 akshayhemant.com — My website  
-The endpoint which holds some basic information about me :)  
-**Repo:** *https://github.com/AstroProjection/akshayhemant.com*  
-**Tech:** Vanilla Js, HTML , CSS
+### 🌐 akshayhemant.com — Personal Website  
+A minimal site with information about me and my work.  
+**Repo:** https://github.com/AstroProjection/akshayhemant.com  
+**Tech:** Vanilla JS, HTML, CSS
 
 ---
 
 ## 📈 What I’m Building / Exploring
 - Expanding RecruiterScreen into a complete **AI Recruiter Toolkit**  
-- Prototyping micro-apps and tools
+- Building **Paraverse**, a writer-focused tool to make crafting stories a breeze
+- Prototyping micro-apps and developer tools
 
 ---
 
