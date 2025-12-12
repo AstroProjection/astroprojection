@@ -21,6 +21,7 @@ Hi! I'm **Akshay**, a full-stack engineer from Bangalore who loves building **AI
   <img src="https://img.shields.io/badge/React-61DBFB.svg?style=for-the-badge&logo=react&logoColor=000" />
   <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/AngularJS-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square" />
   <img src="https://img.shields.io/badge/TypeScript-3178c6.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-38bdf8.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" />
